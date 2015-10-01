@@ -1,10 +1,9 @@
 {
   "name": "passenger-restart",
   "main": "./lib/passenger-restart",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Touch tmp/restart.txt for projects",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "passenger-restart:restart"
   },
