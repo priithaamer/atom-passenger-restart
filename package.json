@@ -1,0 +1,19 @@
+{
+  "name": "passenger-restart",
+  "main": "./lib/passenger-restart",
+  "version": "0.1.0",
+  "description": "Touch tmp/restart.txt for projects",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "passenger-restart:restart"
+  },
+  "repository": "https://github.com/priithaamer/atom-passenger-restart",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "touch": "0.0.3"
+  }
+}
