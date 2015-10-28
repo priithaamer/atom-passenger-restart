@@ -1,7 +1,7 @@
 {
   "name": "passenger-restart",
   "main": "./lib/passenger-restart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Touch tmp/restart.txt for projects",
   "keywords": [],
   "activationCommands": {
